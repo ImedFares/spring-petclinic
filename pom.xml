@@ -67,7 +67,7 @@
         <groupId>com.sun.xml.bind</groupId>
         <artifactId>jaxb-impl</artifactId>
         <version>2.2.11</version>
-       f </dependency>
+      </dependency>
         
         <dependency>
             <groupId>org.jadira.usertype</groupId>
